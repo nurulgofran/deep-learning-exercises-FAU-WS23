@@ -173,3 +173,16 @@ ehthumbs.db
 .agent/
 .gemini/
 
+
+# Dependencies
+node_modules/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/

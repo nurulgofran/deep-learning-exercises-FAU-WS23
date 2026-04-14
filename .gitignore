@@ -186,3 +186,13 @@ node_modules/
 *.temp
 tmp/
 temp/
+
+# ===== SENSITIVE FILES - DO NOT COMMIT =====
+keystore.properties
+*.keystore
+*.jks
+google-services.json
+GoogleService-Info.plist
+.env.*
+!.env.example
+dazl.config.json

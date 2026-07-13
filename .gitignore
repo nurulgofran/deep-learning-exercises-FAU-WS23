@@ -196,3 +196,6 @@ GoogleService-Info.plist
 .env.*
 !.env.example
 dazl.config.json
+
+# Antigravity/Copilot local config - do not push to GitHub
+.github/
